@@ -17,6 +17,15 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 
 <!-- Wireframes here -->
 
+<!-- Development -->
+- Started with the index.html file basic sturcture along with placeholder text for reference
+- Added an assets folder with a CSS folder and images folder
+- Created a style.css file, and linked it to the index.html file
+- Created the general layout for the README.md file
+- Added the general layout to the header section in the index.html file along with adding font awesome script link to the bottom of my index.html file
+- Continued updating the README.md file as i went on through the project
+
+
 <!-- Sections/Pages functions & screen shots here -->
 
 ## Testing
