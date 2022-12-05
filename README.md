@@ -15,9 +15,10 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 - Weekly blogs
 - Blog sign up
 
+## Development
 <!-- Wireframes here -->
 
-<!-- Development -->
+<!-- Development Steps -->
 - Started with the index.html file basic sturcture along with placeholder text for reference
 - Added an assets folder with a CSS folder and images folder
 - Created a style.css file, and linked it to the index.html file
