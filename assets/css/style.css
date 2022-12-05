@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Malayalam:wght@300&family=Dancing+Script&family=Unna:ital@1&display=swap');
+
 body {
-    background-color: red;
+    font-family: Unna, sans-serif;
+    font-weight: 400;
 }
