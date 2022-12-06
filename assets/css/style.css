@@ -8,23 +8,30 @@
 }
 
 body {
-    font-family: Unna, sans-serif;
+    font-family: 'Unna', sans-serif;
     font-weight: 400;
     font-size: 1.5rem;
-    /* color: ;remember to set font color for page */
+    color: #B2BEB5;
+}
+
+h1,h2 {
+    font-family: 'Dancing Script', sans-serif;
+    font-weight: 600;
 }
 
 /* header styling */
 
 .heading {
     margin: auto;
-    width: 80%;
+    width: 90%;
     height: 300px;
     border: 3px solid green;
     background-image: url(../images/pexels-pixabay-39003.jpg);
     background-position: 0 0;
     background-size: 100% auto;
     background-repeat: no-repeat;
+    position: relative;
+    top: 10px;
 }
 
 .heading>.logo {
@@ -43,8 +50,14 @@ body {
 
 ul {
     text-align: center;
+    padding-top: 5px;
+}
+
+li {
+    list-style: none;
 }
 
 ul>li {
     display: inline-block;
+    padding: 5px 20px;
 }
