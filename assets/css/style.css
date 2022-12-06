@@ -1,6 +1,36 @@
 @import url('https://fonts.googleapis.com/css2?family=Anek+Malayalam:wght@300&family=Dancing+Script&family=Unna:ital@1&display=swap');
 
+/* general page styles */
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
 body {
     font-family: Unna, sans-serif;
     font-weight: 400;
+    /* color: ;remember to set font color for page */
+}
+
+/* header styling */
+
+.heading {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+
+.logo {
+    text-transform: capitalize;
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+}
+
+ul > li {
+    display: inline-block;
 }

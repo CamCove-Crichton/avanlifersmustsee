@@ -25,7 +25,7 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 - Created the general layout for the README.md file
 - Added the general layout to the header section in the index.html file along with adding font awesome script link to the bottom of my index.html file
 - Continued updating the README.md file as i went on through the project
-
+- Started with the header content and then started the general styling of the header
 
 <!-- Sections/Pages functions & screen shots here -->
 
