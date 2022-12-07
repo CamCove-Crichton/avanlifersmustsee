@@ -28,6 +28,7 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 - Started with the header content and then started the general styling of the header
 - Added a background image to the assets folder and styled it
 - Styled the logo fonts, and updated the font color in the body
+- Continued tweaking header h* elements and then more styling on the nav
 
 <!-- Sections/Pages functions & screen shots here -->
 
