@@ -36,6 +36,7 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 
 ### Bugs
 <!-- Any bugs found here -->
+- Links to credits not working, fixed with looking up the correct URL
 
 ### Validator Testing
 <!-- Validator testing results here -->
@@ -58,8 +59,8 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 
 ### Code
 <!-- Code credits here -->
-[Code Institue](https://codeinstitue.com) - Love Running Project
+[Code Institue](https://codeinstitute.net) - Love Running Project
 
 [stackoverflow](https://stackoverflow.com) - Resolving issues
 
-[Code Institute Tutor Support](https://codeinstitute.com) - Tutor Support
+[Code Institute Tutor Support](https://codeinstitute.net) - Tutor Support
