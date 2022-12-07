@@ -54,3 +54,12 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 
 ### Media
 <!-- Media credits here -->
+[Pexels](https://pexels.com) - Images
+
+### Code
+<!-- Code credits here -->
+[Code Institue](https://codeinstitue.com) - Love Running Project
+
+[stackoverflow](https://stackoverflow.com) - Resolving issues
+
+[Code Institute Tutor Support](https://codeinstitute.com) - Tutor Support
