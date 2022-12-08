@@ -11,10 +11,11 @@ body {
     font-family: 'Unna', sans-serif;
     font-weight: 400;
     font-size: 1.5rem;
-    color: #B2BEB5;
+    color: #023020;
 }
 
-h1,h2 {
+h1,
+h2 {
     font-family: 'Dancing Script', sans-serif;
     font-weight: 600;
     color: #D3D3D3;
@@ -32,13 +33,6 @@ h1,h2 {
     background-repeat: no-repeat;
 }
 
-.heading>#logo {
-    margin: auto;
-    width: 100%;
-    height: 300px;
-    background-color: rgba(00, 00, 00, 0.3);
-}
-
 #logo {
     text-transform: capitalize;
     text-align: center;
@@ -50,6 +44,7 @@ h1,h2 {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    background-color: rgba(00, 00, 00, 0.5);
 }
 
 div a {
@@ -74,4 +69,17 @@ ul>li {
 
 #menu a {
     text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
+    border-top: 1px solid #023020;
+    border-bottom: 1px solid #023020;
+    padding: 5px 0;
+}
+
+.active {
+    border-top: 1px solid #023020;
+    border-bottom: 1px solid #023020;
+    padding: 5px 0;
 }
