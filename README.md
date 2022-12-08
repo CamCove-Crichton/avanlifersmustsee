@@ -39,6 +39,7 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 ### Bugs
 <!-- Any bugs found here -->
 - Links to credits not working, fixed with looking up the correct URL
+- Ordered list items not displaying number values, fixed using the "list-style-position: inside;" property
 
 ### Validator Testing
 <!-- Validator testing results here -->
@@ -61,8 +62,8 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 
 ### Code
 <!-- Code credits here -->
-[Code Institue](https://codeinstitute.net) - Love Running Project
+[Code Institue](https://codeinstitute.net) - Love Running Project (Layout ideas and troubleshooting)
 
-[stackoverflow](https://stackoverflow.com) - Resolving issues
+[stackoverflow](https://stackoverflow.com) - Resolving issues/troublshooting
 
 [Code Institute Tutor Support](https://codeinstitute.net) - Tutor Support
