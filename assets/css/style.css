@@ -5,7 +5,7 @@
     margin: 0;
     padding: 0;
     border: none;
-    
+
     list-style-position: inside;
 }
 
@@ -14,15 +14,12 @@ body {
     font-weight: 400;
     font-size: 1.5rem;
     color: #023020;
-
-    /* background-color: #87CEEB; */
 }
 
 h1,
 h2 {
     font-family: 'Dancing Script', sans-serif;
     font-weight: 600;
-    /* color: #D3D3D3; */
     color: #a45a52;
 }
 
@@ -102,4 +99,10 @@ ul>li {
 
 #benefits {
     text-align: center;
+    line-height: 1.5;
+}
+
+#benefits-heading {
+    padding-top: 30px;
+    padding-bottom: 15px;
 }

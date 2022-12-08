@@ -67,3 +67,5 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 [stackoverflow](https://stackoverflow.com) - Resolving issues/troublshooting
 
 [Code Institute Tutor Support](https://codeinstitute.net) - Tutor Support
+
+[W3 Schools](https://w3schools.com) - Troubleshooting
