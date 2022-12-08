@@ -55,6 +55,7 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 
 ### Content
 <!-- Content credits here -->
+[Beyond the Bucketlist](https://beyondthebucketlist.co/10-benefits-of-van-life-why-its-so-popular/#10_Benefits_of_Van_Life_Why_You_Should_Consider_Joining_the_Movement) - Benefits content ideas
 
 ### Media
 <!-- Media credits here -->
