@@ -103,14 +103,13 @@ ul>li {
     padding: 5px 0;
 }
 
-/* vanlife benefits content */
+/* vanlife benefits and lifehacks content */
 
-#benefits {
+.benefits-and-hacks {
     text-align: center;
     line-height: 1.5;
 
-    /* margin: auto; */
-    margin-left: 5%;
+    /* margin-left: 5%; */
     padding: 15px;
     box-sizing: border-box;
 
@@ -122,15 +121,23 @@ ul>li {
     align-items: center;
     justify-content: center;
 
-    background-color: rgba(00, 00, 00, 0.2);
+    background-color: rgba(00, 00, 00, 0.1);
 
+    /* float: left; */
+}
+
+#benefits {
+    margin-left: 5%;
     float: left;
 }
 
-#benefits-heading {
+/* vanlife benefits and hacks headings */
+
+.section-headings {
     margin-left: 5%;
     padding-top: 30px;
     padding-bottom: 15px;
+    display: inline-block;
 }
 
 /* vanlife benefits image */
