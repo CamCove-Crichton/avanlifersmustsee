@@ -138,20 +138,34 @@ ul>li {
 /* vanlife benefits and hacks image */
 
 #benefits-image {
-    width: 45%;
-    height: 600px;
+    /* width: 45%;
+    height: 600px; */
 
     float: right;
     margin-right: 5%;
+    /* box-sizing: border-box;
+    overflow: hidden; */
+}
+
+.midsection-images {
+    width: 45%;
+    height: 600px;
+
     box-sizing: border-box;
     overflow: hidden;
 }
 
-#benefits-image>img {
+/* #benefits-image>img {
+    max-width: auto;
+    height: 100%;
+} */
+
+.midsection-images>img {
     max-width: auto;
     height: 100%;
 }
 
-/* #life-hack-image {
-
-} */
+#life-hack-image {
+    float: left;
+    margin-left: 5%;
+}
