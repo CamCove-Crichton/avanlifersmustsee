@@ -31,6 +31,7 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 - Continued tweaking header h* elements and then more styling on the nav
 - Started adding content to the Benefits section with some placeholder text in the index.html file
 - Updated the style.css file to target more than one section in the index.html file
+- Added placeholder content in the Lifehacks section and added an image to go with it
 
 <!-- Sections/Pages functions & screen shots here -->
 
@@ -65,6 +66,8 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 [Pixabay](https://pixabay.com/) - Header background image
 
 [PNW Production](https://instagram.com/pnw.production/) - Image in the benefits section
+
+[Clément Proust](http://clementp.fr/) - Image in the lifehacks section
 
 ### Code
 <!-- Code credits here -->
