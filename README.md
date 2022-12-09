@@ -30,6 +30,7 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 - Styled the logo fonts, and updated the font color in the body
 - Continued tweaking header h* elements and then more styling on the nav
 - Started adding content to the Benefits section with some placeholder text in the index.html file
+- Updated the style.css file to target more than one section in the index.html file
 
 <!-- Sections/Pages functions & screen shots here -->
 
@@ -60,6 +61,10 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 ### Media
 <!-- Media credits here -->
 [Pexels](https://pexels.com) - Images
+
+[Pixabay](https://pixabay.com/) - Header background image
+
+[PNW Production](https://instagram.com/pnw.production/) - Image in the benefits section
 
 ### Code
 <!-- Code credits here -->
