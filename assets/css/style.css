@@ -12,7 +12,7 @@
 body {
     font-family: 'Unna', sans-serif;
     font-weight: 400;
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     color: #023020;
 }
 
@@ -75,7 +75,7 @@ ul {
 
 ul>li {
     display: inline-block;
-    padding: 0 20px;
+    padding: 0 15px;
 }
 
 #menu a {
@@ -95,14 +95,44 @@ ul>li {
     padding: 5px 0;
 }
 
-/* vanlife benefits section */
+/* vanlife benefits content */
 
 #benefits {
     text-align: center;
     line-height: 1.5;
+
+    /* margin: auto; */
+    margin-left: 5%;
+    padding: 15px;
+    box-sizing: border-box;
+
+    width: 55%;
+    height: 300px;
+
+    background-color: rgba(00, 00, 00, 0.2);
+
+    float: left;
 }
 
 #benefits-heading {
+    margin-left: 5%;
     padding-top: 30px;
     padding-bottom: 15px;
+}
+
+/* vanlife benefits image */
+
+#benefits-image {
+    width: 35%;
+    height: 300px;
+
+    float: right;
+    margin-right: 5%;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+#benefits-image>img {
+    max-width: auto;
+    height: 100%;
 }
