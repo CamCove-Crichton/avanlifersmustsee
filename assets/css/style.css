@@ -121,6 +121,11 @@ ul>li {
     float: left;
 }
 
+#life-hacks {
+    margin-right: 5%;
+    float: right;
+}
+
 /* vanlife benefits and hacks headings */
 
 .section-headings {
@@ -130,7 +135,7 @@ ul>li {
     display: inline-block;
 }
 
-/* vanlife benefits image */
+/* vanlife benefits and hacks image */
 
 #benefits-image {
     width: 45%;
@@ -146,3 +151,7 @@ ul>li {
     max-width: auto;
     height: 100%;
 }
+
+/* #life-hack-image {
+
+} */
