@@ -23,13 +23,6 @@ h2 {
     color: #a45a52;
 }
 
-/* .center {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-} */
-
 /* header styling */
 
 .heading {
@@ -109,7 +102,6 @@ ul>li {
     text-align: center;
     line-height: 1.5;
 
-    /* margin-left: 5%; */
     padding: 15px;
     box-sizing: border-box;
 
@@ -122,8 +114,6 @@ ul>li {
     justify-content: center;
 
     background-color: rgba(00, 00, 00, 0.1);
-
-    /* float: left; */
 }
 
 #benefits {
