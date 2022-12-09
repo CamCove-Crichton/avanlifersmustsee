@@ -23,6 +23,13 @@ h2 {
     color: #a45a52;
 }
 
+/* .center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+} */
+
 /* header styling */
 
 .heading {
@@ -51,6 +58,7 @@ h2 {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+
     background-color: rgba(00, 00, 00, 0.5);
 }
 
@@ -106,8 +114,13 @@ ul>li {
     padding: 15px;
     box-sizing: border-box;
 
-    width: 55%;
-    height: 300px;
+    width: 45%;
+    height: 600px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 
     background-color: rgba(00, 00, 00, 0.2);
 
@@ -123,8 +136,8 @@ ul>li {
 /* vanlife benefits image */
 
 #benefits-image {
-    width: 35%;
-    height: 300px;
+    width: 45%;
+    height: 600px;
 
     float: right;
     margin-right: 5%;
