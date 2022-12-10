@@ -34,6 +34,7 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 - Added placeholder content in the Lifehacks section and added an image to go with it
 - Replaced the placeholder content with actual content for the Vanlife Hacks section
 - Created basic structure and content for the Top 5 Must See Places section
+- Added Icons to the Top 5 Must See Places section
 
 <!-- Sections/Pages functions & screen shots here -->
 
@@ -61,6 +62,8 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 <!-- Content credits here -->
 [Beyond the Bucketlist](https://beyondthebucketlist.co/10-benefits-of-van-life-why-its-so-popular/#10_Benefits_of_Van_Life_Why_You_Should_Consider_Joining_the_Movement) - Benefits content ideas
 
+[Republic of Durable Goods](https://republicofdurablegoods.com/blogs/field-guide/van-camping-hacks-best-van-life-tips) - Vanlife Hacks ideas
+
 ### Media
 <!-- Media credits here -->
 [Pexels](https://pexels.com) - Images
@@ -80,3 +83,5 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 [Code Institute Tutor Support](https://codeinstitute.net) - Tutor Support
 
 [W3 Schools](https://w3schools.com) - Troubleshooting
+
+[Font Awesome](https://fontawesome.com/) - Icons on the website
