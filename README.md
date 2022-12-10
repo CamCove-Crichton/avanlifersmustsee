@@ -32,6 +32,8 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 - Started adding content to the Benefits section with some placeholder text in the index.html file
 - Updated the style.css file to target more than one section in the index.html file
 - Added placeholder content in the Lifehacks section and added an image to go with it
+- Replaced the placeholder content with actual content for the Vanlife Hacks section
+- Created basic structure and content for the Top 5 Must See Places section
 
 <!-- Sections/Pages functions & screen shots here -->
 
