@@ -198,12 +198,12 @@ ul>li {
 
 .must-see-images {
     margin: auto;
+    border: 2px solid #023020;
 
     width: 90%;
     height: 300px;
 
     /* this might have to change to using a picture element for responsive design */
-    /* background-image: url(../images/pexels-nathan-j-hilton-8360464.jpg); */
     background-position: center center;
     background-size: 100% auto;
     background-repeat: no-repeat;
