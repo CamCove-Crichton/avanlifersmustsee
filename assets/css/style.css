@@ -139,13 +139,8 @@ ul>li {
 /* vanlife benefits and hacks image */
 
 #benefits-image {
-    /* width: 45%;
-    height: 600px; */
-
     float: right;
     margin-right: 5%;
-    /* box-sizing: border-box;
-    overflow: hidden; */
 }
 
 .midsection-images {
@@ -154,23 +149,16 @@ ul>li {
 
     box-sizing: border-box;
     overflow: hidden;
-}
 
-/* #benefits-image>img {
-    max-width: auto;
-    height: 100%;
-} */
-
-.midsection-images>img {
-    max-width: auto;
-    height: 100%;
-}
-
-.midsection-images {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
+}
+
+.midsection-images>img {
+    max-width: auto;
+    height: 100%;
 }
 
 #life-hack-image {
@@ -181,7 +169,6 @@ ul>li {
 /* Must See Places section */
 
 .must-see {
-    /* text-align: left; */
     line-height: 1.5;
 
     margin: 0 5%;
@@ -199,6 +186,5 @@ ul>li {
     background-color: rgba(00, 00, 00, 0.1);
 }
 
-/* .must-see h4 {
-    text-align: left;
-} */
+/* Must see places section images */
+
