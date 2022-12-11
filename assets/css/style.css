@@ -171,11 +171,11 @@ ul>li {
 .must-see {
     line-height: 1.5;
 
-    margin: 0 5%;
+    margin: 0;
     padding: 15px;
     box-sizing: border-box;
 
-    width: 90%;
+    width: 100%;
     height: 300px;
 
     display: flex;
@@ -183,8 +183,35 @@ ul>li {
     align-items: center;
     justify-content: center;
 
-    background-color: rgba(00, 00, 00, 0.1);
+    background-color: rgba(00, 00, 00, 0.5);
+}
+
+.must-see>h4 {
+    color: #D3D3D3;
+}
+
+.must-see>h3 {
+    color: white;
 }
 
 /* Must see places section images */
 
+.must-see-images {
+    margin: auto;
+
+    width: 90%;
+    height: 300px;
+
+    /* this might have to change to using a picture element for responsive design */
+    /* background-image: url(../images/pexels-nathan-j-hilton-8360464.jpg); */
+    background-position: center center;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+#llandudno {
+    background-image: url(../images/pexels-nathan-j-hilton-8360464.jpg);
+}
