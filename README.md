@@ -78,6 +78,10 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 
 [Clément Proust](http://clementp.fr/) - Image in the lifehacks section
 
+[Nathan J Hilton](https://www.pexels.com/@radmondo/) - No.5 Must See Place
+
+[Soe Thiha Oo](https://www.instagram.com/soethihaoo/) - No.4 Must See Place
+
 ### Code
 <!-- Code credits here -->
 [Code Institue](https://codeinstitute.net) - Love Running Project (Layout ideas and troubleshooting)
