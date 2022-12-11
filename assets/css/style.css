@@ -177,3 +177,28 @@ ul>li {
     float: left;
     margin-left: 5%;
 }
+
+/* Must See Places section */
+
+.must-see {
+    /* text-align: left; */
+    line-height: 1.5;
+
+    margin: 0 5%;
+    padding: 15px;
+    box-sizing: border-box;
+
+    width: 90%;
+    height: 300px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    background-color: rgba(00, 00, 00, 0.1);
+}
+
+/* .must-see h4 {
+    text-align: left;
+} */

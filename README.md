@@ -35,6 +35,7 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 - Replaced the placeholder content with actual content for the Vanlife Hacks section
 - Created basic structure and content for the Top 5 Must See Places section
 - Added Icons to the Top 5 Must See Places section
+- Added styling to the Top 5 Must See Places section
 
 <!-- Sections/Pages functions & screen shots here -->
 
