@@ -272,3 +272,23 @@ ul>li {
     margin-right: 5%;
     margin-top: 5%;
 }
+
+/* Media queries */
+
+/* For larger and medium screens from 1200px wide and down */
+@media screen and (max-width: 1200px) {
+    /* #benefits {
+        width: 65%;
+        height: 1200px;
+        margin: 0 auto;
+    } */
+}
+
+@media screen and (max-width: 1025px) {
+    #benefits {
+        width: 90%;
+        height: 300px;
+        margin: 0 5%;
+        box-sizing: border-box;
+    }
+}
