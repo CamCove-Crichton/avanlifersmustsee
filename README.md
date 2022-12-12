@@ -38,6 +38,7 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 - Added styling to the Top 5 Must See Places section
 - Added images to the Top 5 Must See Places section
 - Created footer structure and added content and style
+- Created new html files for the Vlogs and Sign Up pages
 
 <!-- Sections/Pages functions & screen shots here -->
 
