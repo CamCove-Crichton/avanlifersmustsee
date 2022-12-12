@@ -68,7 +68,9 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 
 [National Parks UK](https://www.nationalparks.uk/parks/) - Must see places ideas
 
-[Trip Advisor](https://www.tripadvisor.co.uk/Attractions-g190724-Activities-Llandudno_Conwy_County_North_Wales_Wales.html) - Ideas for things to do in Llandudno
+[Trip Advisor](https://www.tripadvisor.co.uk) - Ideas for things to do in the Top 5 Must See Places
+
+[Google](https://google.com) - General info searches
 
 ### Media
 <!-- Media credits here -->
@@ -95,3 +97,5 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 [W3 Schools](https://w3schools.com) - Troubleshooting
 
 [Font Awesome](https://fontawesome.com/) - Icons on the website
+
+[Google](https://google.com) - Troubleshooting searches
