@@ -37,6 +37,7 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 - Added Icons to the Top 5 Must See Places section
 - Added styling to the Top 5 Must See Places section
 - Added images to the Top 5 Must See Places section
+- Created footer structure and added content and style
 
 <!-- Sections/Pages functions & screen shots here -->
 
@@ -89,6 +90,14 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 [Nathan J Hilton](https://www.pexels.com/@radmondo/) - No.5 Must See Place
 
 [Soe Thiha Oo](https://www.instagram.com/soethihaoo/) - No.4 Must See Place
+
+[Facebook](https://facebook.com) - Facebook link for Social Media purpose
+
+[Instagram](https://instagram.com) - Instagram link for Social Media purpose
+
+[Youtube](https://youtube.com) - Youtube link for Social Media purpose
+
+[Twitter](https://twitter.com) - Twitter link for Social Media purpose
 
 ### Code
 <!-- Code credits here -->
