@@ -205,6 +205,8 @@ ul>li {
 .things-to-do:hover {
     background-color: #D3D3D3;
     color: #023020;
+
+    border-radius: 5px;
 }
 
 /* Must see places section images */
@@ -243,4 +245,22 @@ ul>li {
 
 #isle-of-skye {
     background-image: url(../images/IMG_2261.jpg);
+}
+
+/* footer styling */
+
+.social {
+    list-style-type: none;
+
+    display: inline-block;
+    padding: 10px 30px;
+    margin-bottom: 30px;
+
+    color: #023020;
+}
+
+.social:hover {
+    background-color: #023020;
+    color: #D3D3D3;
+    border-radius: 5px;
 }
