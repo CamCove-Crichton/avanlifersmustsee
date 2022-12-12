@@ -285,10 +285,30 @@ ul>li {
 }
 
 @media screen and (max-width: 1025px) {
-    #benefits {
-        width: 90%;
-        height: 300px;
-        margin: 0 5%;
+
+    h2 {
+        width: 100%;
+        height: auto;
+        display: block;
+        clear: both;
+    }
+
+    #benefits,
+    #life-hacks {
+        width: 65%;
+        height: 600px;
+        margin: 0 auto;
         box-sizing: border-box;
+        float: none;
+    }
+
+    #benefits-image,
+    #life-hack-image {
+        float: none;
+
+        width: 65%;
+        height: 600px;
+
+        margin: 0 auto
     }
 }
