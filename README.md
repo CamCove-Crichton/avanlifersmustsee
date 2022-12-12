@@ -72,6 +72,10 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 
 [Google](https://google.com) - General info searches
 
+[Dalwhinnie Distillery](https://www.malts.com/en-gb/distilleries/dalwhinnie) - Things to do idea
+
+[Love Cairngorms](https://www.lovecairngorms.com/wild-swimming-loch-pityoulish) - Things to do idea
+
 ### Media
 <!-- Media credits here -->
 [Pexels](https://pexels.com) - Images
