@@ -186,12 +186,16 @@ ul>li {
     background-color: rgba(00, 00, 00, 0.6);
 }
 
-.must-see>h4,li {
+.must-see>h4 {
     color: #D3D3D3;
 }
 
 .must-see>h3 {
     color: white;
+}
+
+.things-to-do {
+    color: #D3D3D3;
 }
 
 /* Must see places section images */
