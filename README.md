@@ -83,6 +83,14 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 
 [Kinging-It Youtube Channel](https://www.youtube.com/@kingingit)
 
+[Wandering Home](https://www.wanderinghome.co.uk/) - Youtube video of How we built our dream home
+
+[Wanering Home Youtube Channel](https://www.youtube.com/@WanderingHome)
+
+[Jits into the Sunset](https://www.jitsintothesunset.com/) - Youtube video of Scotland road trip in our tiny van
+
+[Jits into the Sunset Youtube Channel](https://www.youtube.com/@JitsIntoTheSunset)
+
 ### Media
 <!-- Media credits here -->
 [Pexels](https://pexels.com) - Images
