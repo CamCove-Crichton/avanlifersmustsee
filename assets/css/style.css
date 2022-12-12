@@ -196,6 +196,15 @@ ul>li {
 
 .things-to-do {
     color: #D3D3D3;
+    list-style-type: none;
+
+    display: inline-block;
+    padding: 0 30px;
+}
+
+.things-to-do:hover {
+    background-color: #D3D3D3;
+    color: #023020;
 }
 
 /* Must see places section images */
