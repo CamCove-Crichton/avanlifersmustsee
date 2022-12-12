@@ -39,6 +39,7 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 - Added images to the Top 5 Must See Places section
 - Created footer structure and added content and style
 - Created new html files for the Vlogs and Sign Up pages
+- Added embeded vlogs for the Community Vlog page
 
 <!-- Sections/Pages functions & screen shots here -->
 
@@ -77,6 +78,10 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 [Dalwhinnie Distillery](https://www.malts.com/en-gb/distilleries/dalwhinnie) - Things to do idea
 
 [Love Cairngorms](https://www.lovecairngorms.com/wild-swimming-loch-pityoulish) - Things to do idea
+
+[Kinging-It](https://www.kinging-it.com/) - Youtube video of How to convert a van to a campervan in 6 weeks
+
+[Kinging-It Youtube Channel](https://www.youtube.com/@kingingit)
 
 ### Media
 <!-- Media credits here -->
