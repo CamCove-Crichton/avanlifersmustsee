@@ -40,6 +40,7 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 - Created footer structure and added content and style
 - Created new html files for the Vlogs and Sign Up pages
 - Added embeded vlogs for the Community Vlog page
+- Started creating media queries for responsive design
 
 <!-- Sections/Pages functions & screen shots here -->
 
