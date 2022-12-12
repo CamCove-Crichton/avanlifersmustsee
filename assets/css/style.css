@@ -331,4 +331,15 @@ ul>li {
 
         margin: 0 auto
     } */
+
+    #top-five {
+        width: 65%;
+        height: 600px;
+
+        margin: 0 auto;
+    }
+
+    .must-see-images {
+        width: 100%;
+    }
 }
