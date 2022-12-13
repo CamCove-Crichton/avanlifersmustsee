@@ -114,6 +114,8 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 
 [Twitter](https://twitter.com) - Twitter link for Social Media purpose
 
+[Gabriela Palai](https://www.instagram.com/gabrielapalai/) - Sign-up and signed-up background image
+
 ### Code
 <!-- Code credits here -->
 [Code Institue](https://codeinstitute.net) - Love Running Project (Layout ideas and troubleshooting)
