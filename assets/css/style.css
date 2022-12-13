@@ -273,6 +273,19 @@ ul>li {
     margin-top: 5%;
 }
 
+/* sign-up styling */
+
+#sign-up {
+    background-image: url(../images/pexels-gabriela-palai-420233.jpg);
+    background-position: 0 0;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    width: 90%;
+    height: 600px;
+    margin-left: 5%;
+    margin-top: 30px;
+}
+
 /* Media queries */
 
 /* For larger and medium screens from 1200px wide and down */
