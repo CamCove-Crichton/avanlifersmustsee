@@ -295,11 +295,6 @@ ul>li {
         font-size: 150%;
     }
 
-    /* #header {
-        width: 65%;
-        margin: 0 auto;
-    } */
-
     .section-headings {
         margin-left: 17.5%;
     }
@@ -332,5 +327,13 @@ ul>li {
 
     .must-see-images {
         width: 100%;
+    }
+
+    .vlogs {
+        width: 65%;
+        height: auto;
+
+        margin: 0 auto;
+        padding: 15px 0;
     }
 }
