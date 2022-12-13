@@ -41,6 +41,7 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 - Created new html files for the Vlogs and Sign Up pages
 - Added embeded vlogs for the Community Vlog page
 - Started creating media queries for responsive design
+- Added a new file for when sign-up form is submitted, and began working on the sign-up form design
 
 <!-- Sections/Pages functions & screen shots here -->
 
