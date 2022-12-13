@@ -286,14 +286,19 @@ ul>li {
 
 @media screen and (max-width: 1025px) {
 
+    .heading {
+        width: 65%;
+        margin: 0 auto;
+    }
+
     #logo {
         font-size: 150%;
     }
 
-    #header {
+    /* #header {
         width: 65%;
         margin: 0 auto;
-    }
+    } */
 
     .section-headings {
         margin-left: 17.5%;
