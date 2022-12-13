@@ -286,25 +286,18 @@ ul>li {
 
 @media screen and (max-width: 1025px) {
 
-    .heading {
-        width: 65%;
-        margin: 0 auto;
-    }
-
     #logo {
         font-size: 150%;
+    }
+
+    #header {
+        width: 65%;
+        margin: 0 auto;
     }
 
     .section-headings {
         margin-left: 17.5%;
     }
-
-    /* h2 {
-        width: 100%;
-        height: auto;
-        display: block;
-        clear: both;
-    } */
 
     #benefits,
     #life-hacks {
@@ -324,13 +317,6 @@ ul>li {
 
         margin: 0 auto
     }
-
-    /* .must-see-images {
-        width: 65%;
-        height: 600px;
-
-        margin: 0 auto
-    } */
 
     #top-five {
         width: 65%;
