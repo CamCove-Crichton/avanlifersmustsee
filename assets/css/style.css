@@ -441,4 +441,10 @@ ul>li {
     #sign-up {
         background-image: url(../images/pexels-till-daling-12623852.jpg);
     }
+
+    #benefits,
+    #life-hacks {
+        font-size: large;
+        height: 750px;
+    }
 }
