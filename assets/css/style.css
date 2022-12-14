@@ -34,7 +34,7 @@ h3 {
 
     /* this might have to change to using a picture element for responsive design */
     background-image: url(../images/pexels-pixabay-39003.jpg);
-    background-position: 0 -60px;
+    background-position: 0 0;
     background-size: 100% auto;
     background-repeat: no-repeat;
 }
@@ -183,7 +183,7 @@ ul>li {
     align-items: center;
     justify-content: center;
 
-    background-color: rgba(00, 00, 00, 0.6);
+    background-color: rgba(00, 00, 00, 0.7);
 }
 
 .must-see>h4 {
@@ -293,7 +293,6 @@ ul>li {
     max-width: 300px;
     position: absolute;
     padding: 30px;
-    /* border: 1px solid rgba(00, 00, 00, 0.6); */
     border-radius: 5px;
 }
 
@@ -403,7 +402,7 @@ ul>li {
     }
 
     .vlogs {
-        width: 65%;
+        width: 100%;
         height: auto;
 
         margin: 0 auto;
@@ -419,11 +418,24 @@ ul>li {
     }
 }
 
-/* For small screens from 1025px wide and down */
+/* For small screens from 850px wide and down */
 @media screen and (max-width: 850px) {
 
     .heading {
-        background-image: url(../images/pexels-hakeem-james-hausley-4090266.jpg);
+        background-size: cover;
+    }
+}
+
+/* For mobile screens from 550px wide and down */
+@media screen and (max-width: 550px) {
+
+    .heading {
+        font-size: large;
+    }
+
+    .block {
+        display: block;
+        padding: 15px 0 15px 0;
     }
 
     #sign-up {
