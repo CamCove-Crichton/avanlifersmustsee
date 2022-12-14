@@ -382,8 +382,24 @@ ul>li {
         margin: 0 auto;
     }
 
+    #top-five h4 {
+        font-size: medium;
+    }
+
+    #top-five li {
+        font-size: medium;
+    }
+
     .must-see-images {
         width: 100%;
+    }
+
+    #llandudno,
+    #glenfinnan,
+    #cairngorms,
+    #exmoor,
+    #isle-of-skye {
+        background-size: cover;
     }
 
     .vlogs {
@@ -406,7 +422,7 @@ ul>li {
 /* For small screens from 1025px wide and down */
 @media screen and (max-width: 850px) {
 
-    .heading{
+    .heading {
         background-image: url(../images/pexels-hakeem-james-hausley-4090266.jpg);
     }
 
