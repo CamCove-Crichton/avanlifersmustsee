@@ -330,7 +330,9 @@ ul>li {
 /* signed-up message */
 
 .signed-up-message {
+    font-size: 200%;
     color: #D3D3D3;
+    padding: 5px 10px 30px;
 }
 
 /* Media queries */
@@ -375,7 +377,7 @@ ul>li {
         float: none;
 
         width: 100%;
-        height: 600px;
+        height: 750px;
 
         margin: 0 auto
     }
@@ -432,11 +434,15 @@ ul>li {
     }
 }
 
-/* For mobile screens from 550px wide and down */
-@media screen and (max-width: 550px) {
+/* For mobile screens from 600px wide and down */
+@media screen and (max-width: 600px) {
 
     .heading {
         font-size: large;
+    }
+
+    .title {
+        padding: 0 5px;
     }
 
     .block {
@@ -452,5 +458,12 @@ ul>li {
     #life-hacks {
         font-size: large;
         height: 750px;
+    }
+}
+
+/* For mobile screens from 400px wide and down */
+@media screen and (max-width: 400px) {
+    .signed-up-message {
+        font-size: 125%;
     }
 }
