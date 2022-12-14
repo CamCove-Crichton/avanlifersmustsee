@@ -286,7 +286,7 @@ ul>li {
 }
 
 .form {
-    margin-top: 30px;
+    margin-top: 60px;
     margin-left: 5%;
     color: #D3D3D3;
     background-color: rgba(00, 00, 00, 0.6);
@@ -337,6 +337,7 @@ ul>li {
     }
 }
 
+/* For medium screens from 1025px wide and down */
 @media screen and (max-width: 1025px) {
 
     .heading {
@@ -362,7 +363,8 @@ ul>li {
     }
 
     #benefits-image,
-    #life-hack-image {
+    #life-hack-image,
+    #sign-up {
         float: none;
 
         width: 65%;
@@ -388,5 +390,21 @@ ul>li {
 
         margin: 0 auto;
         padding: 15px 0;
+    }
+
+    .form {
+        margin: 0px auto;
+        max-width: 55%;
+        max-height: auto;
+
+        position: relative;
+    }
+}
+
+/* For small screens from 1025px wide and down */
+@media screen and (max-width: 850px) {
+
+    .heading{
+        background-image: url(../images/pexels-hakeem-james-hausley-4090266.jpg);
     }
 }
