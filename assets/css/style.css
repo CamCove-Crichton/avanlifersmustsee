@@ -341,7 +341,7 @@ ul>li {
 @media screen and (max-width: 1025px) {
 
     .heading {
-        width: 65%;
+        width: 100%;
         margin: 0 auto;
     }
 
@@ -350,12 +350,14 @@ ul>li {
     }
 
     .section-headings {
-        margin-left: 17.5%;
+        margin: 0 auto;
+        display: block;
+        text-align: center;
     }
 
     #benefits,
     #life-hacks {
-        width: 65%;
+        width: 100%;
         height: 600px;
         margin: 0 auto;
         box-sizing: border-box;
@@ -367,14 +369,14 @@ ul>li {
     #sign-up {
         float: none;
 
-        width: 65%;
+        width: 100%;
         height: 600px;
 
         margin: 0 auto
     }
 
     #top-five {
-        width: 65%;
+        width: 100%;
         height: 600px;
 
         margin: 0 auto;
