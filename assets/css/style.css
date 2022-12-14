@@ -283,7 +283,16 @@ ul>li {
     width: 90%;
     height: 600px;
     margin-left: 5%;
+}
+
+.form {
     margin-top: 30px;
+    margin-left: 5%;
+    color: #D3D3D3;
+    background-color: rgba(00, 00, 00, 0.6);
+    max-width: 300px;
+    position: absolute;
+    padding: 30px;
 }
 
 /* Media queries */
