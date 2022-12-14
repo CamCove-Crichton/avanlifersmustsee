@@ -476,4 +476,8 @@ ul>li {
     .signed-up-message {
         font-size: 125%;
     }
+
+    #sign-up {
+        height: 400px;
+    }
 }
