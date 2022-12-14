@@ -467,7 +467,6 @@ ul>li {
     #benefits,
     #life-hacks {
         font-size: large;
-        height: 750px;
     }
 }
 
@@ -479,5 +478,10 @@ ul>li {
 
     #sign-up {
         height: 400px;
+    }
+
+    .section-headings {
+        padding-left: 5px;
+        padding-right: 5px;
     }
 }
