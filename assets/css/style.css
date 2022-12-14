@@ -270,7 +270,8 @@ ul>li {
 .vlogs {
     margin-left: 5%;
     margin-right: 5%;
-    margin-top: 5%;
+    margin-top: 0%;
+    margin-bottom: 5px;
 }
 
 /* sign-up styling */
