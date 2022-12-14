@@ -45,6 +45,7 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 - Added style to the sign-up form
 - Continued working on the media queries for medium and small screens
 - Added in the content for the signed-up message in the signed-up.html file
+- Started to use the inspector for responsive design, and to tweak code for a better UX
 
 <!-- Sections/Pages functions & screen shots here -->
 
