@@ -327,6 +327,12 @@ ul>li {
     color: #D3D3D3;
 }
 
+/* signed-up message */
+
+.signed-up-message {
+    color: #D3D3D3;
+}
+
 /* Media queries */
 
 /* For larger and medium screens from 1200px wide and down */
