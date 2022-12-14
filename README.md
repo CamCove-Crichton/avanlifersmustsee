@@ -43,6 +43,7 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 - Started creating media queries for responsive design
 - Added a new file for when sign-up form is submitted, and began working on the sign-up form design
 - Added style to the sign-up form
+- Continued working on the media queries for medium and small screens
 
 <!-- Sections/Pages functions & screen shots here -->
 
@@ -117,6 +118,10 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 [Twitter](https://twitter.com) - Twitter link for Social Media purpose
 
 [Gabriela Palai](https://www.instagram.com/gabrielapalai/) - Sign-up and signed-up background image
+
+[Till Daling](https://www.tilldaling.com/) - Media query image change for the form on the sign-up page
+
+[Hakeem James Hausley](https://www.instagram.com/jameshausley/) - Media query image change for the heading image on all pages
 
 ### Code
 <!-- Code credits here -->
