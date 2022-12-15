@@ -46,7 +46,7 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 - Continued working on the media queries for medium and small screens
 - Added in the content for the signed-up message in the signed-up.html file
 - Started to use the dev tools for responsive design, and to tweak code for a better UX
-- 
+- Added comments for sections in each html file
 
 <!-- Sections/Pages functions & screen shots here -->
 
