@@ -45,7 +45,8 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 - Added style to the sign-up form
 - Continued working on the media queries for medium and small screens
 - Added in the content for the signed-up message in the signed-up.html file
-- Started to use the inspector for responsive design, and to tweak code for a better UX
+- Started to use the dev tools for responsive design, and to tweak code for a better UX
+- 
 
 <!-- Sections/Pages functions & screen shots here -->
 
@@ -56,6 +57,7 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 <!-- Any bugs found here -->
 - Links to credits not working, fixed with looking up the correct URL
 - Ordered list items not displaying number values, fixed using the "list-style-position: inside;" property
+- Used dev tools to figure out why the footer was appearing in the the middle of the index.html file when media queries came into play
 
 ### Validator Testing
 <!-- Validator testing results here -->
