@@ -338,7 +338,8 @@ ul>li {
 
 /* For larger and medium screens from 1200px wide and down */
 @media screen and (max-width: 1200px) {
-    .things-to-do {
+
+    .things-to-do-block {
         display: block;
     }
 }
