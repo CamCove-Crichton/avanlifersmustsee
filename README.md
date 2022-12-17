@@ -47,6 +47,7 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 - Added in the content for the signed-up message in the signed-up.html file
 - Started to use the dev tools for responsive design, and to tweak code for a better UX
 - Added comments for sections in each html file
+- After checking code in the W3 Nu html validator and the W3C CSS validator, the errors were corrected until all html files and the CSS file passed with no errors
 
 <!-- Sections/Pages functions & screen shots here -->
 
@@ -61,6 +62,9 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 
 ### Validator Testing
 <!-- Validator testing results here -->
+[W3 Nu html checker](https://validator.w3.org) - index.html, vlogs.html, sign-up.html, and signed-up.html files check with no errors found
+
+[Jigsaw validator](https://jigsaw.w3.org/css-validator/) - style.css file check with no errors found
 
 <!-- Lighthouse test here -->
 
