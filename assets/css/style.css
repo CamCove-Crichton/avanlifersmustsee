@@ -156,7 +156,7 @@ ul>li {
 }
 
 .midsection-images>img {
-    max-width: auto;
+    max-width: none;
     height: 100%;
 }
 
@@ -426,7 +426,7 @@ ul>li {
     .form {
         margin: 0px auto;
         max-width: 55%;
-        max-height: auto;
+        max-height: 450px;
 
         position: relative;
     }
