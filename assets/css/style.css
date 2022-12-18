@@ -381,7 +381,7 @@ ul>li {
         margin: 0 auto
     }
 
-    #sign-up  {
+    #sign-up {
         float: none;
 
         width: 100%;
@@ -481,5 +481,12 @@ ul>li {
     .section-headings {
         padding-left: 5px;
         padding-right: 5px;
+    }
+}
+
+/* For mobile screens from 340px wide and down */
+@media screen and (max-width: 340px) {
+    #life-hacks {
+        height: 750px;
     }
 }
