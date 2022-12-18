@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Anek+Malayalam:wght@300&family=Dancing+Script&family=Unna:ital@1&display=swap');
 
 /* general page styles */
+/* Ideas used from Code Institute - Love Running project */
 * {
     margin: 0;
     padding: 0;
@@ -64,6 +65,7 @@ div a {
 }
 
 /* navigation style */
+/* Layout idea from Code Institute - Love Running project */
 
 ul {
     text-align: center;
@@ -166,6 +168,7 @@ ul>li {
 }
 
 /* Must See Places section */
+/* Layout idea from Code Institute - Love Running project */
 
 .must-see {
     line-height: 1.5;
@@ -246,6 +249,7 @@ ul>li {
 }
 
 /* footer styling */
+/* Layout idea from Code Institute - Love Running project */
 
 .social {
     list-style-type: none;
@@ -274,6 +278,7 @@ ul>li {
 }
 
 /* sign-up styling */
+/* Layout idea from Code Institute - Love Running project */
 
 #sign-up {
     background-image: url(../images/pexels-gabriela-palai-420233.jpg);
