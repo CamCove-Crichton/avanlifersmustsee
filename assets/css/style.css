@@ -484,8 +484,8 @@ ul>li {
     }
 }
 
-/* For mobile screens from 340px wide and down */
-@media screen and (max-width: 340px) {
+/* For mobile screens from 360px wide and down */
+@media screen and (max-width: 360px) {
     #life-hacks {
         height: 750px;
     }
