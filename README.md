@@ -7,6 +7,10 @@
 A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST SEE places in the UK. Not only that, but it also brings a few benefits to taking on Vanlife full time or even part time (its your choice!) and more!
 
 <!-- Amiresponsive image here -->
+### Am I Responsive
+
+![webpage displayed on multiple devices](../avanlifersmustsee/assets/images/amiresponsive.png)
+[Am I Responsive](https://amiresponsive.co.uk/)
 
 <!-- Website Features here -->
 - Benefits to vanlife
