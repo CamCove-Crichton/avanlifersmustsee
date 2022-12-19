@@ -107,6 +107,10 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 | Hover Nav buttons | Highlight each button with a border bottom line and border top line when user hovers over | Pass |
 | Select Nav Buttons | Open selected page when clicked and highlight the active page with a border top line and border bottom line | Pass |
 | Title logo | Return to home page when clicked | Pass |
+| Check 'Things to do' list items hover for Top 5 Must See Places section | Highlight each list item when mouse hovers over | Pass |
+| Check 'Things to do' list links | Open each list link item in a new tab when clicked | Pass |
+| Check my Footer hover on social links work on all four html files | Highlight each social link when mouse hovers over | Pass |
+| Check my Footer social links work on all four html files | Opens each social link in a blank tab when clicked on | Pass |
 
 ### Bugs
 <!-- Any bugs found here -->
