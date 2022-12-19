@@ -71,6 +71,14 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 - Started to use the dev tools for responsive design, and to tweak code for a better UX
 - Added comments for sections in each html file
 - After checking code in the W3 Nu html validator and the W3C CSS validator, the errors were corrected until all html files and the CSS file passed with no errors
+- Added in screen grabs from the wireframe
+- Checked site using Lighthouse
+- Added in a screen grab from the Lighthouse check
+- Checked the responsive design using Am I Responsive
+- Added in a screen grab from the Am I Responsive site
+- Added in screen grabs of the final site and explanations of each feature
+- Began testing the site over three browsers, Google Chrome, Mozilla Firefox and Mircosoft Edge
+- Continuously updated the README.md file
 
 <!-- Site Screen grabs -->
 ### Finished Website Screen grabs
