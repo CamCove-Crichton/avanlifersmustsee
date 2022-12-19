@@ -113,6 +113,7 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 [Jigsaw validator](https://jigsaw.w3.org/css-validator/) - style.css file check with no errors found
 
 <!-- Lighthouse test here -->
+![Lighthouse performce scores](/assets/images/lighthouse.png)
 
 ### Unfixed Bugs
 <!-- Any unfixed bug details here -->
