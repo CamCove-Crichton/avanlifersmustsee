@@ -23,15 +23,15 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 <!-- Wireframes here -->
 
 ### Wireframes
-![Wireframe homepage one](../avanlifersmustsee/assets/images/wireframe1.jpg)
+![Wireframe homepage one](/assets/images/wireframe1.jpg)
 
-![Wireframe homepage two](../avanlifersmustsee/assets/images/Wireframe2.png)
+![Wireframe homepage two](/assets/images/Wireframe2.png)
 
-![Wireframe homepage three](../avanlifersmustsee/assets/images/Wireframe3.png)
+![Wireframe homepage three](/assets/images/Wireframe3.png)
 
-![Wireframe vlogs page](../avanlifersmustsee/assets/images/Wireframe4.png)
+![Wireframe vlogs page](/assets/images/Wireframe4.png)
 
-![Wireframe sign-up page](../avanlifersmustsee/assets/images/Wireframe5.png)
+![Wireframe sign-up page](/assets/images/Wireframe5.png)
 
 <!-- Development Steps -->
 - Started with the index.html file basic sturcture along with placeholder text for reference
@@ -66,25 +66,25 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 
 <!-- Site Screen grabs -->
 ### Finished Website Screen grabs
-![Finished project homepage](../avanlifersmustsee/assets/images/Finished%20site%20home%20title%20and%20nav.jpg)
+![Finished project homepage](/assets/images/Finished%20site%20home%20title%20and%20nav.jpg)
 - Home page for A Vanelifers Must See (And More in the UK) showing the site title and the sites navigation
 
-![Finished project vanlife benefits](../avanlifersmustsee/assets/images/Finished%20site%20vanlife%20benefits.jpg)
+![Finished project vanlife benefits](/assets/images/Finished%20site%20vanlife%20benefits.jpg)
 - The vanlife benefits section presenting some insight into why living in a van part time or full time can be beneficial
 
-![Finished project vanlife hacks](../avanlifersmustsee/assets/images/Finished%20site%20vanlife%20hacks.jpg)
+![Finished project vanlife hacks](/assets/images/Finished%20site%20vanlife%20hacks.jpg)
 - The vanlife hacks section presenting a few good to know hacks for aspiring van lifers
 
-![Finished project footer](../avanlifersmustsee/assets/images/Finished%20site%20footer.jpg)
+![Finished project footer](/assets/images/Finished%20site%20footer.jpg)
 - The social links which can take the user to the social media platforms
 
-![Finished project vlogs page](../avanlifersmustsee/assets/images/Finished%20site%20vlogs%20title%20and%20nav.jpg)
+![Finished project vlogs page](/assets/images/Finished%20site%20vlogs%20title%20and%20nav.jpg)
 - The vlogs page has some embeded videos from other vanlifers to show and inspire other vanlifers from their experiences
 
-![Finished project sign-up page](../avanlifersmustsee/assets/images/Finished%20site%20signup%20title%20and%20nav.jpg)
+![Finished project sign-up page](/assets/images/Finished%20site%20signup%20title%20and%20nav.jpg)
 - A sign-up page where users can submit their details to receive emails about the newly added vlogs
 
-![Finished project signed-up message](../avanlifersmustsee/assets/images/Finished%20site%20signedup%20message.jpg)
+![Finished project signed-up message](/assets/images/Finished%20site%20signedup%20message.jpg)
 - A message to inform the user the sign-up has been successful
 
 <!-- Sections/Pages functions & screen shots here -->
