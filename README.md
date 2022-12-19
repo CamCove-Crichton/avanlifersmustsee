@@ -111,6 +111,10 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 | Check 'Things to do' list links | Open each list link item in a new tab when clicked | Pass |
 | Check my Footer hover on social links work on all four html files | Highlight each social link when mouse hovers over | Pass |
 | Check my Footer social links work on all four html files | Opens each social link in a blank tab when clicked on | Pass |
+| Check all the vlog videos | Each video plays when clicked and controls work to pause play and adjust volume | Pass |
+| Check the hover over the input fields in the form of the sign-up.html file | Each input field changes border color when mouse hovers over | Pass |
+| Check the required attribute for the input fields in the form of the sign-up.html file | Each input field must be filled in before you can submit | Pass |
+| Check the signed-up message displays once form has been submitted | The signed-up.html file is displayed to show a thank you message to inform the user the form has been submitted successfully | Pass |
 
 ### Bugs
 <!-- Any bugs found here -->
