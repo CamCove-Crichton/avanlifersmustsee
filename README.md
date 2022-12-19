@@ -6,6 +6,14 @@
 <!-- general description -->
 A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST SEE places in the UK. Not only that, but it also brings a few benefits to taking on Vanlife full time or even part time (its your choice!) and more!
 
+## Deployment
+[Click here to view site](https://camcove-crichton.github.io/avanlifersmustsee/)
+
+1. From the repository in Github I went to 'Settings'
+2. In 'Settings' I went to the 'Pages' tab on the left side of the page under 'Code and Automation'
+3. On the 'Pages' tab, I then selected the **main** branch under the 'Branch' heading of the 'Build and Deployment' section of the page
+4. I then selected the 'Save' button to deploy
+
 <!-- Amiresponsive image here -->
 ### Am I Responsive
 
@@ -108,9 +116,6 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 
 ### Unfixed Bugs
 <!-- Any unfixed bug details here -->
-
-## Deployment
-[Click here to view site](https://camcove-crichton.github.io/avanlifersmustsee/)
 
 ## Credits
 
