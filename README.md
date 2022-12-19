@@ -9,7 +9,7 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 <!-- Amiresponsive image here -->
 ### Am I Responsive
 
-![webpage displayed on multiple devices](../avanlifersmustsee/assets/images/amiresponsive.png)
+![webpage displayed on multiple devices](/assets/images/amiresponsive.png)
 [Am I Responsive](https://amiresponsive.co.uk/)
 
 <!-- Website Features here -->
