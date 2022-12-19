@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Anek+Malayalam:wght@300&family=Dancing+Script&family=Unna:ital@1&display=swap');
 
 /* general page styles */
-/* Ideas used from Code Institute - Love Running project */
+/* Ideas used from Code Institute - Love Running project for the general page style */
 * {
     margin: 0;
     padding: 0;
@@ -10,6 +10,7 @@
     list-style-position: inside;
 }
 
+/* Idea of code for body from Code Institute - Love Running Project */
 body {
     font-family: 'Unna', sans-serif;
     font-weight: 400;
@@ -17,6 +18,7 @@ body {
     color: #023020;
 }
 
+/* Idea for h* styling from Code Institute - Love Running project */
 h1,
 h2,
 h3 {
@@ -27,6 +29,7 @@ h3 {
 
 /* header styling */
 
+/* Idea for .heading code from Code Institute - Love Running project */
 .heading {
     margin: auto;
 
@@ -40,6 +43,7 @@ h3 {
 }
 
 #logo {
+    /* Idea for size and alignment from Code Institute - Love Running project */
     text-transform: capitalize;
     text-align: center;
     font-size: 200%;
@@ -48,6 +52,7 @@ h3 {
     width: 100%;
     height: 300px;
 
+    /* Code from Tutor support from Code Institute */
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -86,12 +91,14 @@ ul>li {
     color: inherit;
 }
 
+/* Hover idea from Code Institute - Love Running project */
 #menu a:hover {
     border-top: 1px solid #023020;
     border-bottom: 1px solid #023020;
     padding: 5px 0;
 }
 
+/* Active idea and code from Code Institute - Love Running project */
 .active {
     border-top: 1px solid #023020;
     border-bottom: 1px solid #023020;
@@ -261,6 +268,7 @@ ul>li {
     color: #023020;
 }
 
+/* Hover idea from Code Institute - Love Running project */
 .social:hover {
     background-color: #023020;
     color: #D3D3D3;
@@ -290,6 +298,7 @@ ul>li {
     margin-left: 5%;
 }
 
+/* Code for form taken from Code Institute - Love Running project */
 .form {
     margin-top: 60px;
     margin-left: 5%;
@@ -312,10 +321,12 @@ ul>li {
     border-radius: 5px;
 }
 
+/* Code for hover taken from Code Institute - Love Running project */
 .entry:hover {
     border-color: #a45a52;
 }
 
+/* Code for .send taken from Code Institute - Love Running project */
 .send {
     margin-top: 30px;
     padding: 5px 15px;
@@ -327,6 +338,7 @@ ul>li {
     display: block;
 }
 
+/* Code for hover taken from Code Institute - Love Running project */
 .send:hover {
     background-color: #a45a52;
     color: #D3D3D3;
@@ -342,6 +354,7 @@ ul>li {
 
 /* Media queries */
 
+/* Idea for 1200px wide from Code Institute - Love Running project */
 /* For larger and medium screens from 1200px wide and down */
 @media screen and (max-width: 1200px) {
 
@@ -350,6 +363,7 @@ ul>li {
     }
 }
 
+/* Idea for 1025px wide from Code Institute - Love Running project */
 /* For medium screens from 1025px wide and down */
 @media screen and (max-width: 1025px) {
 
