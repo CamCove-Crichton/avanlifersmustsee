@@ -99,6 +99,14 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 
 ## Testing
 <!-- Website tests here -->
+- Below tests performed on Chrome, Firefox, Edge
+
+| Test | Expected Result | Pass/Fail |
+| ----------- | ----------- | ----------- |
+| Open site from URL | The Home page to open and display | Pass |
+| Hover Nav buttons | Highlight each button with a border bottom line and border top line when user hovers over | Pass |
+| Select Nav Buttons | Open selected page when clicked and highlight the active page with a border top line and border bottom line | Pass |
+| Title logo | Return to home page when clicked | Pass |
 
 ### Bugs
 <!-- Any bugs found here -->
