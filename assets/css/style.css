@@ -36,7 +36,7 @@ h3 {
     width: 90%;
     height: 300px;
 
-    background-image: url(../images/pexels-pixabay-39003.WebP);
+    background-image: url(../images/pexels-pixabay-39003-small.WebP);
     background-position: 0 0;
     background-size: 100% auto;
     background-repeat: no-repeat;
@@ -236,23 +236,23 @@ ul>li {
 }
 
 #llandudno {
-    background-image: url(../images/pexels-nathan-j-hilton-8360464.WebP);
+    background-image: url(../images/pexels-nathan-j-hilton-8360464-small.WebP);
 }
 
 #glenfinnan {
-    background-image: url(../images/pexels-soe-thiha-oo-12598368.WebP);
+    background-image: url(../images/pexels-soe-thiha-oo-12598368-small.WebP);
 }
 
 #cairngorms {
-    background-image: url(../images/IMG_2509.WebP);
+    background-image: url(../images/IMG_2509-small.WebP);
 }
 
 #exmoor {
-    background-image: url(../images/IMG_3259.WebP);
+    background-image: url(../images/IMG_3259-small.WebP);
 }
 
 #isle-of-skye {
-    background-image: url(../images/IMG_2261.WebP);
+    background-image: url(../images/IMG_2261-small.WebP);
 }
 
 /* footer styling */
@@ -289,7 +289,7 @@ ul>li {
 /* Layout idea from Code Institute - Love Running project */
 
 #sign-up {
-    background-image: url(../images/pexels-gabriela-palai-420233.WebP);
+    background-image: url(../images/pexels-gabriela-palai-420233-small.WebP);
     background-position: 0 0;
     background-size: 100% auto;
     background-repeat: no-repeat;
@@ -477,7 +477,7 @@ ul>li {
     }
 
     #sign-up {
-        background-image: url(../images/pexels-till-daling-12623852.WebP);
+        background-image: url(../images/pexels-till-daling-12623852-small.WebP);
         height: 600px;
     }
 
