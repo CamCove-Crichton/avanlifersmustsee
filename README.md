@@ -203,13 +203,312 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 ### Code
 <!-- Code credits here -->
 [Code Institue](https://codeinstitute.net) - Love Running Project (Layout ideas and troubleshooting)
+-Nav layout idea in the index.html, vlogs.html, sign-up.html & signed-up.html files
+
+```         
+            <ul>
+                <li class="block">
+                    <a href="index.html" class="active">Home</a>
+                </li>
+                <li class="block">
+                    <a href="vlogs.html">Community Vlogs</a>
+                </li>
+                <li class="block">
+                    <a href="sign-up.html">Vlog Sign Up</a>
+                </li>
+            </ul>
+ ```
+
+- Top 5 Must See Places in the UK div layout in the index.html file for No.5, No.4, No.3, No.2 and No.1
+
+```
+                <div class="must-see">
+                    <h3>No. 5</h3>
+                    <h4><i class="fa-solid fa-map-location-dot"></i> Location: Llandudno, Wales</h4>
+                    <h4><i class="fa-solid fa-earth-europe"></i> GPS Coordinates: 53.3241° N, 3.8276° W</h4>
+                    <h4><i class="fa-solid fa-binoculars"></i> Things to do:</h4>   
+                </div>
+```
+
+- The Footer social links layout in the index.html, vlogs.html, sign-up.html & signed-up.html files
+
+```
+<ul>
+                <li class="block">
+                    <a href="https://www.facebook.com/" target="_blank" class="social"><i
+                            class="fa-brands fa-facebook"></i> facebook
+                    </a>
+                </li>
+
+                <li class="block">
+                    <a href="https://www.instagram.com/" target="_blank" class="social"><i
+                            class="fa-brands fa-instagram"></i> instagram
+                    </a>
+                </li>
+
+                <li class="block">
+                    <a href="https://www.youtube.com/" target="_blank" class="social"><i
+                            class="fa-brands fa-youtube"></i> youtube
+                    </a>
+                </li>
+
+                <li class="block">
+                    <a href="https://twitter.com/" target="_blank" class="social"><i class="fa-brands fa-twitter"></i>
+                        twitter
+                    </a>
+                </li>
+            </ul>
+```
+
+- The form layout in the sign-up.html file
+
+```
+                <form method="GET" action="signed-up.html">
+                    <label for="first-name">First Name</label>
+                    <input class="entry" type="text" id="first-name" name="first-name" required>
+
+                    <label for="last-name">Last Name</label>
+                    <input class="entry" type="text" id="last-name" name="last-name" required>
+
+                    <label for="email">Email</label>
+                    <input class="entry" type="email" id="email" name="email" required>
+
+                    <input class="send" type="submit" value="Submit">
+                </form>
+```
+
+- CSS General Page setup from the Code Institute - Love Running Project
+
+```
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+
+    list-style-position: inside;
+}
+```
+
+- The CSS general body style from the Code Institute - Love Running Project
+
+```
+body {
+    font-family: 'Unna', sans-serif;
+    font-weight: 400;
+    font-size: 1.3rem;
+    color: #023020;
+}
+```
+
+- Idea for the h* styling from the Code Institute - Love Running Project
+
+```
+h1,
+h2,
+h3 {
+    font-family: 'Dancing Script', sans-serif;
+    font-weight: 600;
+    color: #a45a52;
+}
+```
+
+- Idea for the .heading style code from the Code Institute - Love Running Project
+
+```
+.heading {
+    margin: auto;
+
+    width: 90%;
+    height: 300px;
+
+    background-image: url(../images/pexels-pixabay-39003-small.WebP);
+    background-position: 0 0;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+}
+```
+
+- Idea for the #logo size and alignment from the Code Institue - Love Running project
+
+```
+    text-transform: capitalize;
+    text-align: center;
+    font-size: 200%;
+    color: white;
+
+    width: 100%;
+    height: 300px;
+```
+
+- Nav style idea from Code Institute - Love Running Project
+
+```
+ul {
+    text-align: center;
+    padding-top: 15px;
+}
+
+#menu li {
+    list-style-type: none;
+}
+
+ul>li {
+    display: inline-block;
+    padding: 0 15px;
+}
+```
+
+- The Hover style idea from the Code Institute - Love Running project (Used a few time with multiple links and buttons in the style.css file)
+
+```
+#menu a:hover {
+    border-top: 1px solid #023020;
+    border-bottom: 1px solid #023020;
+    padding: 5px 0;
+}
+```
+
+- The active page idea from the Code Institute - Love Running Project to display the currently active page
+
+```
+.active {
+    border-top: 1px solid #023020;
+    border-bottom: 1px solid #023020;
+    padding: 5px 0;
+}
+```
+
+- The .must-see layout style idea from the Code Institute - Love Running project
+
+```
+.must-see {
+    line-height: 1.5;
+
+    margin: 0;
+    padding: 15px;
+    box-sizing: border-box;
+
+    width: 100%;
+    height: 300px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    background-color: rgba(00, 00, 00, 0.7);
+}
+```
+
+- The footer style idea from the Code Institute - Love Running project
+
+```
+.social {
+    list-style-type: none;
+
+    display: inline-block;
+    padding: 10px 30px;
+    margin-bottom: 30px;
+
+    color: #023020;
+}
+```
+
+- The sign-up form style code from the Code Institute - Love Running project
+
+```
+#sign-up {
+    background-image: url(../images/pexels-gabriela-palai-420233-small.WebP);
+    background-position: 0 0;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    width: 90%;
+    height: 600px;
+    margin-left: 5%;
+}
+```
+
+```
+.form {
+    margin-top: 60px;
+    margin-left: 5%;
+    color: #D3D3D3;
+    background-color: rgba(00, 00, 00, 0.6);
+    max-width: 300px;
+    position: absolute;
+    padding: 30px;
+    border-radius: 5px;
+}
+```
+
+```
+.send {
+    margin-top: 30px;
+    padding: 5px 15px;
+    font-size: 90%;
+    font-family: inherit;
+    background-color: #D3D3D3;
+    color: #023020;
+    border-radius: 5px;
+    display: block;
+}
+```
+
+- The media querey size ideas for the widths from the Code Institute - Love Running project
+
+```
+@media screen and (max-width: 1200px)
+```
+
+```
+@media screen and (max-width: 1025px)
+```
+
+```
+@media screen and (max-width: 850px)
+```
+
+```
+@media screen and (max-width: 600px)
+```
+
+```
+@media screen and (max-width: 400px)
+```
+
+```
+@media screen and (max-width: 360px)
+```
 
 [stackoverflow](https://stackoverflow.com) - Resolving issues/troublshooting
 
 [Code Institute Tutor Support](https://codeinstitute.net) - Tutor Support
 
+- Assistance with centering content in a div with a background image from Code Institute - Tutor Support (Went on to use it again with the .must-see)
+
+```
+display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+```
+
 [W3 Schools](https://w3schools.com) - Troubleshooting
 
 [Font Awesome](https://fontawesome.com/) - Icons on the website
 
+- Found Font Awesome from the tutorial in the Code Institute Full Stack Software Development course, used in the index.html, vlogs.html, sign-up.html & signed-up.html files
+
+```
+<script src="https://kit.fontawesome.com/c1b12b8cf9.js" crossorigin="anonymous"></script>
+```
+
 [Google](https://google.com) - Troubleshooting searches
+
+[Google Fonts](https://fonts.google.com/) - Fonts for site
+
+- Found Google Fonts during the Love Running Project in the Code Institute Full Stack Development course
+
+```
+@import url('https://fonts.googleapis.com/css2?family=Anek+Malayalam:wght@300&family=Dancing+Script&family=Unna:ital@1&display=swap');
+```
