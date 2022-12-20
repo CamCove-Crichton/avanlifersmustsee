@@ -91,6 +91,9 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 ![Finished project vanlife hacks](/assets/images/Finished%20site%20vanlife%20hacks.jpg)
 - The vanlife hacks section presenting a few good to know hacks for aspiring van lifers
 
+![Finished project top five must see places](/assets/images/Top%205%20must%20see%20places.png)
+- The Top 5 Must See places in the UK, each with its location, GPS coordinates and a few things to do while there
+
 ![Finished project footer](/assets/images/Finished%20site%20footer.jpg)
 - The social links which can take the user to the social media platforms
 
