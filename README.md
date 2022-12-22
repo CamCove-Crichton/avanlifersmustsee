@@ -140,10 +140,11 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 [Jigsaw validator](https://jigsaw.w3.org/css-validator/) - style.css file check with no errors found
 
 <!-- Lighthouse test here -->
-![Lighthouse performce scores]()
+![Lighthouse performce scores](/README%20images/Lighthouse.png)
 
 ### Unfixed Bugs
 <!-- Any unfixed bug details here -->
+- As far as I am aware there are not unfixed bugs
 
 ## Credits
 
@@ -515,3 +516,5 @@ display: flex;
 ```
 @import url('https://fonts.googleapis.com/css2?family=Anek+Malayalam:wght@300&family=Dancing+Script&family=Unna:ital@1&display=swap');
 ```
+
+[TinyPNG](https://tinypng.com/) - Compressing images
