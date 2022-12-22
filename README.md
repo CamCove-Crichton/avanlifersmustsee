@@ -17,7 +17,7 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 <!-- Amiresponsive image here -->
 ### Am I Responsive
 
-![webpage displayed on multiple devices](/assets/images/amiresponsive.png)
+![webpage displayed on multiple devices](/README%20images/amiresponsive.png)
 [Am I Responsive](https://amiresponsive.co.uk/)
 
 <!-- Website Features here -->
@@ -31,15 +31,15 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 <!-- Wireframes here -->
 
 ### Wireframes
-![Wireframe homepage one](/assets/images/wireframe1.jpg)
+![Wireframe homepage one](/README%20images/wireframe1.jpg)
 
-![Wireframe homepage two](/assets/images/Wireframe2.png)
+![Wireframe homepage two](/README%20images/Wireframe2.png)
 
-![Wireframe homepage three](/assets/images/Wireframe3.png)
+![Wireframe homepage three](/README%20images/Wireframe3.png)
 
-![Wireframe vlogs page](/assets/images/Wireframe4.png)
+![Wireframe vlogs page](/README%20images/Wireframe4.png)
 
-![Wireframe sign-up page](/assets/images/Wireframe5.png)
+![Wireframe sign-up page](/README%20images/Wireframe5.png)
 
 <!-- Development Steps -->
 - Started with the index.html file basic sturcture along with placeholder text for reference
@@ -82,28 +82,28 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 
 <!-- Site Screen grabs -->
 ### Finished Website Screen grabs
-![Finished project homepage](/assets/images/Finished%20site%20home%20title%20and%20nav.jpg)
+![Finished project homepage](/README%20images/Finished%20site%20home%20title%20and%20nav.jpg)
 - Home page for A Vanelifers Must See (And More in the UK) showing the site title and the sites navigation
 
-![Finished project vanlife benefits](/assets/images/Finished%20site%20vanlife%20benefits.jpg)
+![Finished project vanlife benefits](/README%20images/Finished%20site%20vanlife%20benefits.jpg)
 - The vanlife benefits section presenting some insight into why living in a van part time or full time can be beneficial
 
-![Finished project vanlife hacks](/assets/images/Finished%20site%20vanlife%20hacks.jpg)
+![Finished project vanlife hacks](/README%20images/Finished%20site%20vanlife%20hacks.jpg)
 - The vanlife hacks section presenting a few good to know hacks for aspiring van lifers
 
-![Finished project top five must see places](/assets/images/Top%205%20must%20see%20places.png)
+![Finished project top five must see places](/README%20images/Top%205%20must%20see%20places.png)
 - The Top 5 Must See places in the UK, each with its location, GPS coordinates and a few things to do while there
 
-![Finished project footer](/assets/images/Finished%20site%20footer.jpg)
+![Finished project footer](/README%20images/Finished%20site%20footer.jpg)
 - The social links which can take the user to the social media platforms
 
-![Finished project vlogs page](/assets/images/Finished%20site%20vlogs%20title%20and%20nav.jpg)
+![Finished project vlogs page](/README%20images/Finished%20site%20vlogs%20title%20and%20nav.jpg)
 - The vlogs page has some embeded videos from other vanlifers to show and inspire other vanlifers from their experiences
 
-![Finished project sign-up page](/assets/images/Finished%20site%20signup%20title%20and%20nav.jpg)
+![Finished project sign-up page](/README%20images/Finished%20site%20signup%20title%20and%20nav.jpg)
 - A sign-up page where users can submit their details to receive emails about the newly added vlogs
 
-![Finished project signed-up message](/assets/images/Finished%20site%20signedup%20message.jpg)
+![Finished project signed-up message](/README%20images/Finished%20site%20signedup%20message.jpg)
 - A message to inform the user the sign-up has been successful
 
 <!-- Sections/Pages functions & screen shots here -->
@@ -140,7 +140,7 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 [Jigsaw validator](https://jigsaw.w3.org/css-validator/) - style.css file check with no errors found
 
 <!-- Lighthouse test here -->
-![Lighthouse performce scores](/assets/images/Lighthouse%20check.png)
+![Lighthouse performce scores]()
 
 ### Unfixed Bugs
 <!-- Any unfixed bug details here -->
