@@ -13,6 +13,7 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 2. In 'Settings' I went to the 'Pages' tab on the left side of the page under 'Code and Automation'
 3. On the 'Pages' tab, I then selected the **main** branch under the 'Branch' heading of the 'Build and Deployment' section of the page
 4. I then selected the 'Save' button to deploy
+5. I cloned the repository to my machine as a backup
 
 <!-- Amiresponsive image here -->
 ### Am I Responsive
@@ -79,6 +80,7 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 - Added in screen grabs of the final site and explanations of each feature
 - Began testing the site over three browsers, Google Chrome, Mozilla Firefox and Mircosoft Edge
 - Continuously updated the README.md file
+- Once done, I also cloned the repository to backup on my Macbook
 
 <!-- Site Screen grabs -->
 ### Finished Website Screen grabs
