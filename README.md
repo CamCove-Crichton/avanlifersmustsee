@@ -42,37 +42,37 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 ![Wireframe sign-up page](/README%20images/Wireframe5.png)
 
 <!-- Development Steps -->
-- Started with the index.html file basic sturcture along with placeholder text for reference
-- Added an assets folder with a CSS folder and images folder
+- Started with the index.html file basic structure along with placeholder text for reference
+- Added an assets directory with a CSS and images directory
 - Created a style.css file, and linked it to the index.html file
 - Created the general layout for the README.md file
-- Added the general layout to the header section in the index.html file along with adding font awesome script link to the bottom of my index.html file
-- Continued updating the README.md file as i went on through the project
+- Added the general layout to the header section in the index.html file along with adding a font awesome script link to the bottom of my index.html file
+- Continued updating the README.md file as I went on through the project
 - Started with the header content and then started the general styling of the header
 - Added a background image to the assets folder and styled it
 - Styled the logo fonts, and updated the font color in the body
 - Continued tweaking header h* elements and then more styling on the nav
 - Started adding content to the Benefits section with some placeholder text in the index.html file
 - Updated the style.css file to target more than one section in the index.html file
-- Added placeholder content in the Lifehacks section and added an image to go with it
+- Added placeholder content in the Vanlife Hacks section and added an image to go with it
 - Replaced the placeholder content with actual content for the Vanlife Hacks section
 - Created basic structure and content for the Top 5 Must See Places section
 - Added Icons to the Top 5 Must See Places section
 - Added styling to the Top 5 Must See Places section
 - Added images to the Top 5 Must See Places section
-- Created footer structure and added content and style
+- Created the footer structure and added content and style
 - Created new html files for the Vlogs and Sign Up pages
-- Added embeded vlogs for the Community Vlog page
+- Added embeded vlogs for the Community Vlogs page
 - Started creating media queries for responsive design
-- Added a new file for when sign-up form is submitted, and began working on the sign-up form design
+- Added a new file for when the sign-up form is submitted, and began working on the sign-up form design
 - Added style to the sign-up form
 - Continued working on the media queries for medium and small screens
 - Added in the content for the signed-up message in the signed-up.html file
-- Started to use the dev tools for responsive design, and to tweak code for a better UX
+- Started to use the dev tools for responsive design, and to tweak the code for a better UX
 - Added comments for sections in each html file
 - After checking code in the W3 Nu html validator and the W3C CSS validator, the errors were corrected until all html files and the CSS file passed with no errors
 - Added in screen grabs from the wireframe
-- Checked site using Lighthouse
+- Checked the site using Lighthouse
 - Added in a screen grab from the Lighthouse check
 - Checked the responsive design using Am I Responsive
 - Added in a screen grab from the Am I Responsive site
@@ -83,7 +83,7 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 <!-- Site Screen grabs -->
 ### Finished Website Screen grabs
 ![Finished project homepage](/README%20images/Finished%20site%20home%20title%20and%20nav.jpg)
-- Home page for A Vanelifers Must See (And More in the UK) showing the site title and the sites navigation
+- Home page for A Vanlifers Must See (And More in the UK) showing the site title and the sites navigation, where you can navigate the sites pages from
 
 ![Finished project vanlife benefits](/README%20images/Finished%20site%20vanlife%20benefits.jpg)
 - The vanlife benefits section presenting some insight into why living in a van part time or full time can be beneficial
@@ -144,7 +144,7 @@ A Vanlifers Must See (and more, in the UK) is dedicated to bringing the top MUST
 
 ### Unfixed Bugs
 <!-- Any unfixed bug details here -->
-- As far as I am aware there are not unfixed bugs
+- As far as I am aware there are no unfixed bugs
 
 ## Credits
 
